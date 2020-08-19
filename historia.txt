@@ -1,5 +1,9 @@
 Esta es mi historia
 
+Mi nombre es Karlo Camus
+
+Quiero contar como seguí con el Curso de Data Science
+
 De como empecé a usar GIT de manera más profesional
 
 En Agosto de 2020 en plena Pandemia
